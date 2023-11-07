@@ -30,6 +30,7 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 
 ## Papers
 
+- 2023-[Human Emotion Recognition Based On Galvanic Skin Response signal Feature Selection and SVM](https://arxiv.org/abs/2307.05383)-75
 
 
 ## Indices
