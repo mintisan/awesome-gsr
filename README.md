@@ -33,6 +33,7 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 - 2005-[Detecting stress during real-world driving tasks using physiological sensors](https://ieeexplore.ieee.org/document/1438384)-2368
 - 2012-[A stress sensor based on Galvanic Skin Response (GSR) controlled by ZigBee](https://pubmed.ncbi.nlm.nih.gov/22778631/)-405
 - 2017-[Feature extraction of galvanic skin responses by nonnegative sparse deconvolution](https://ieeexplore.ieee.org/document/8168337/)-17 | [code](https://github.com/yskong224/SprasEDA-Python)
+- 2017-[Unsupervised Motion Artifact Detection in Wrist-Measured Electrodermal Activity Data](https://arxiv.org/abs/1707.08287)-38 | [code](https://github.com/IdeasLabUT/EDA-Artifact-Detection)
 - 2020-[Innovations in Electrodermal Activity Data Collection and Signal Processing: A Systematic Review](https://www.mdpi.com/1424-8220/20/2/479)-227
 - 2022-[PREDICTING HUMAN STRESS EMOTIONS USING MACHINE LEARNING MODELS](https://www.dropbox.com/s/dp3hm900j2x88j0/full_thesis_with_approvals.pdf?dl=0) | [code](https://github.com/KryeKuzhinieri/predicting-driver-stress-using-deep-learning)
 - 2023-[Human Emotion Recognition Based On Galvanic Skin Response signal Feature Selection and SVM](https://arxiv.org/abs/2307.05383)-75
