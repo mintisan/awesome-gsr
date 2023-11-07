@@ -1,7 +1,7 @@
 # Awesome GSR(Galvanic Skin Response)
 
 
-![Awesome](https://awesome.re/badge.svg) ![GitHub stars](https://img.shields.io/github/stars/mintisan/awesome-hrv.svg?style=social)
+![Awesome](https://awesome.re/badge.svg) ![GitHub stars](https://img.shields.io/github/stars/mintisan/awesome-gsr.svg?style=social)
 
 A curated list of awesome libraries, datasets, tutorials, papers, and other resources related to Galvanic Skin Response (GSR) analysis. This repository aims to be a comprehensive and organized collection that will help researchers and developers in the world of GSR!
 
