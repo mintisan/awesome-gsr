@@ -22,6 +22,7 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 
 
 - [BIOBSS](https://github.com/obss/BIOBSS) : A package for processing signals recorded using wearable sensors, such as Electrocardiogram (ECG), Photoplethysmogram (PPG), Electrodermal activity (EDA) and 3-axis acceleration (ACC).
+- [NeuroKit2](https://github.com/neuropsychology/NeuroKit)
 
 
 
