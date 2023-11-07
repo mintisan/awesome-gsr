@@ -56,6 +56,7 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 - [WESAD (Wearable Stress and Affect Detection)](https://archive.ics.uci.edu/dataset/465/wesad+wearable+stress+and+affect+detection) | [GSR Analysis for Stress: Development and Validation of an Open Source Tool for Noisy Naturalistic GSR Data-paper](https://arxiv.org/ftp/arxiv/papers/2005/2005.01834.pdf)
 - [DEAPdataset](https://www.eecs.qmul.ac.uk/mmv/datasets/deap/readme.html) : a dataset for emotion analysis using eeg, physiological and video signals | [DEAP: A Database for Emotion Analysis using Physiological Signals-paper](https://www.eecs.qmul.ac.uk/mmv/datasets/deap/doc/tac_special_issue_2011.pdf)-3904
 - [Stress Recognition in Automobile Drivers](https://physionet.org/content/drivedb/1.0.0/)
+- [The SWELL Knowledge Work Dataset for Stress and User Modeling Research](http://cs.ru.nl/~skoldijk/SWELL-KW/Dataset.html)
 
 
 
