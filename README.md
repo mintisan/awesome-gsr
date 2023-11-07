@@ -52,6 +52,7 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 - [All You Need To Know: Galvanic Skin Response (GSR)](https://www.futureproofinsights.ie/2021/04/08/all-you-need-to-know-galvanic-skin-response-gsr/)
 - [Galvanic Skin Response (GSR): The Complete Pocket Guide](https://imotions.com/blog/learning/research-fundamentals/galvanic-skin-response/)
 - [Tobii Galvanic skin response (GSR)](https://connect.tobii.com/s/article/galvanic-skin-response-gsr?language=en_US)
+- [Electrodermal Activity Data Collection](https://encyclopedia.pub/entry/277)
 
 ## Datasets
 
