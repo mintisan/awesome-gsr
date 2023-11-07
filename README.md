@@ -31,6 +31,7 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 ## Papers
 
 - 2017-[Feature extraction of galvanic skin responses by nonnegative sparse deconvolution](https://ieeexplore.ieee.org/document/8168337/)-17 | [code](https://github.com/yskong224/SprasEDA-Python)
+- 2022-[PREDICTING HUMAN STRESS EMOTIONS USING MACHINE LEARNING MODELS](https://www.dropbox.com/s/dp3hm900j2x88j0/full_thesis_with_approvals.pdf?dl=0) | [code](https://github.com/KryeKuzhinieri/predicting-driver-stress-using-deep-learning)
 - 2023-[Human Emotion Recognition Based On Galvanic Skin Response signal Feature Selection and SVM](https://arxiv.org/abs/2307.05383)-75
 
 
