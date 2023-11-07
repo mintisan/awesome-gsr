@@ -33,6 +33,7 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 
 - 2005-[Detecting stress during real-world driving tasks using physiological sensors](https://ieeexplore.ieee.org/document/1438384)-2368
 - 2012-[A stress sensor based on Galvanic Skin Response (GSR) controlled by ZigBee](https://pubmed.ncbi.nlm.nih.gov/22778631/)-405
+- 2014-[Analysis of the quality of electrodermal activity and heart rate data recorded in daily life over a period of one week with an E4 wristband](https://essay.utwente.nl/70244/1/Enewoldsen_BA_Psychology.pdf)-14
 - 2017-[Feature extraction of galvanic skin responses by nonnegative sparse deconvolution](https://ieeexplore.ieee.org/document/8168337/)-17 | [code](https://github.com/yskong224/SprasEDA-Python)
 - 2017-[Unsupervised Motion Artifact Detection in Wrist-Measured Electrodermal Activity Data](https://arxiv.org/abs/1707.08287)-38 | [code](https://github.com/IdeasLabUT/EDA-Artifact-Detection)
 - 2020-[Innovations in Electrodermal Activity Data Collection and Signal Processing: A Systematic Review](https://www.mdpi.com/1424-8220/20/2/479)-227
