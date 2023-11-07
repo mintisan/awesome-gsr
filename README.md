@@ -49,7 +49,7 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 - [ECG and GSR Data for Emotion Recognition during Covid-19 Epidemic](https://data.mendeley.com/datasets/g2p7vwxyn2/1)
 - [Continuously Annotated Signals of Emotion (CASE)](https://gitlab.com/karan-shr/case_dataset) | [A dataset of continuous affect annotations and physiological signals for emotion analysis-paper](https://www.nature.com/articles/s41597-019-0209-0)
 - [WESAD (Wearable Stress and Affect Detection)](https://archive.ics.uci.edu/dataset/465/wesad+wearable+stress+and+affect+detection) | [GSR Analysis for Stress: Development and Validation of an Open Source Tool for Noisy Naturalistic GSR Data-paper](https://arxiv.org/ftp/arxiv/papers/2005/2005.01834.pdf)
-- [DEAPdataset](https://www.eecs.qmul.ac.uk/mmv/datasets/deap/readme.html) : a dataset for emotion analysis using eeg, physiological and video signals
+- [DEAPdataset](https://www.eecs.qmul.ac.uk/mmv/datasets/deap/readme.html) : a dataset for emotion analysis using eeg, physiological and video signals | [DEAP: A Database for Emotion Analysis using Physiological Signals-paper](https://www.eecs.qmul.ac.uk/mmv/datasets/deap/doc/tac_special_issue_2011.pdf)
 
 
 
