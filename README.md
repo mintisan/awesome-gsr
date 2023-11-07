@@ -45,7 +45,7 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 ## Datasets
 
 - [Physiology of Auditory Attention (PhyAAt)](https://phyaat.github.io/dataset) : The dataset contain three physiological signals recorded at sampling rate of 128Hz from 25 healthy subjects during the experiment. Electroenceplogram (EEG) signal is recorded using a 14-channel Emotiv Epoc device. Two signal streams of Galvanic Skin Response (GSR) were recorded, instantnious sample and moving averaged signal. From photoplethysmogram (PPG) sensor (pulse sensor), a raw signal, inter-beat interval (IBI), and pulse rate were recorded.
-
+- [ECG and GSR Data for Emotion Recognition during Covid-19 Epidemic](https://data.mendeley.com/datasets/g2p7vwxyn2/1)
 
 
 ## Contributing
