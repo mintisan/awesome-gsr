@@ -47,6 +47,7 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 - [Physiology of Auditory Attention (PhyAAt)](https://phyaat.github.io/dataset) : The dataset contain three physiological signals recorded at sampling rate of 128Hz from 25 healthy subjects during the experiment. Electroenceplogram (EEG) signal is recorded using a 14-channel Emotiv Epoc device. Two signal streams of Galvanic Skin Response (GSR) were recorded, instantnious sample and moving averaged signal. From photoplethysmogram (PPG) sensor (pulse sensor), a raw signal, inter-beat interval (IBI), and pulse rate were recorded.
 - [ECG and GSR Data for Emotion Recognition during Covid-19 Epidemic](https://data.mendeley.com/datasets/g2p7vwxyn2/1)
 - [Continuously Annotated Signals of Emotion (CASE)](https://gitlab.com/karan-shr/case_dataset) | [A dataset of continuous affect annotations and physiological signals for emotion analysis-paper](https://www.nature.com/articles/s41597-019-0209-0)
+- [WESAD (Wearable Stress and Affect Detection)](https://archive.ics.uci.edu/dataset/465/wesad+wearable+stress+and+affect+detection) | [GSR Analysis for Stress: Development and Validation of an Open Source Tool for Noisy Naturalistic GSR Data-paper](https://arxiv.org/ftp/arxiv/papers/2005/2005.01834.pdf)
 
 
 ## Contributing
