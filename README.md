@@ -45,6 +45,7 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 - 2022-[Automatic motion artifact detection in electrodermal activity data using machine learning](https://www.sciencedirect.com/science/article/abs/pii/S1746809422000052)-12
 - 2023-[Human Emotion Recognition Based On Galvanic Skin Response signal Feature Selection and SVM](https://arxiv.org/abs/2307.05383)-75
 - 2023-[Driver Drowsiness Detection: A Machine Learning Approach on Skin Conductance](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10143251/)-2
+- 2023-[Wearable Technologies for Electrodermal and Cardiac Activity Measurements: A Comparison between Fitbit Sense, Empatica E4 and Shimmer GSR3+](https://www.mdpi.com/1424-8220/23/13/5847)-3
 
 
 ## Indices
