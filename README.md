@@ -41,6 +41,7 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 - 2017-[A wearable system for stress detection through physiological data analysis](https://www.iris.sssup.it/retrieve/dd9e0b32-0993-709e-e053-3705fe0a83fd/C029%20-%20A%20wearable%20system%20for%20stress%20detection%20through%20physiological%20data%20analysis.pdf)-27
 - 2019-[Design and Implementation of an Ultra-Low Resource Electrodermal Activity Sensor for Wearable Applications](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6603545/)-23
 - 2020-[Innovations in Electrodermal Activity Data Collection and Signal Processing: A Systematic Review](https://www.mdpi.com/1424-8220/20/2/479)-227
+- 2020-[Validating Measures of Electrodermal Activity and Heart Rate Variability Derived From the Empatica E4 Utilized in Research Settings That Involve Interactive Dyadic States](https://www.frontiersin.org/articles/10.3389/fnbeh.2020.00148/full)-102
 - 2021-[A Preliminary Study on Automatic Motion Artifact Detection in Electrodermal Activity Data Using Machine Learning](https://arxiv.org/ftp/arxiv/papers/2107/2107.07650.pdf)-8
 - 2021-[Correlation Analysis of Different Measurement Places of Galvanic Skin Response in Test Groups Facing Pleasant and Unpleasant Stimuli](https://www.mdpi.com/1424-8220/21/12/4210)-19
 - 2022-[PREDICTING HUMAN STRESS EMOTIONS USING MACHINE LEARNING MODELS](https://www.dropbox.com/s/dp3hm900j2x88j0/full_thesis_with_approvals.pdf?dl=0) | [code](https://github.com/KryeKuzhinieri/predicting-driver-stress-using-deep-learning)
