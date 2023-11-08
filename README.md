@@ -32,8 +32,10 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 ## Papers
 
 - 2005-[Detecting stress during real-world driving tasks using physiological sensors](https://ieeexplore.ieee.org/document/1438384)-2368
+- 2010-[A continuous measure of phasic electrodermal activity](https://www.sciencedirect.com/science/article/pii/S0165027010002335)-1582
 - 2012-[A stress sensor based on Galvanic Skin Response (GSR) controlled by ZigBee](https://pubmed.ncbi.nlm.nih.gov/22778631/)-405
 - 2014-[Analysis of the quality of electrodermal activity and heart rate data recorded in daily life over a period of one week with an E4 wristband](https://essay.utwente.nl/70244/1/Enewoldsen_BA_Psychology.pdf)-14
+- 2015-[A Guide for Analysing Electrodermal Activity (EDA) & Skin Conductance Responses (SCRs) for Psychological Experiments](https://www.birmingham.ac.uk/documents/college-les/psych/saal/guide-electrodermal-activity.pdf)-891
 - 2017-[Feature extraction of galvanic skin responses by nonnegative sparse deconvolution](https://ieeexplore.ieee.org/document/8168337/)-17 | [code](https://github.com/yskong224/SprasEDA-Python)
 - 2017-[Unsupervised Motion Artifact Detection in Wrist-Measured Electrodermal Activity Data](https://arxiv.org/abs/1707.08287)-38 | [code](https://github.com/IdeasLabUT/EDA-Artifact-Detection)
 - 2017-[A wearable system for stress detection through physiological data analysis](https://www.iris.sssup.it/retrieve/dd9e0b32-0993-709e-e053-3705fe0a83fd/C029%20-%20A%20wearable%20system%20for%20stress%20detection%20through%20physiological%20data%20analysis.pdf)-27
