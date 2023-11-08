@@ -44,6 +44,7 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 - 2022-[PREDICTING HUMAN STRESS EMOTIONS USING MACHINE LEARNING MODELS](https://www.dropbox.com/s/dp3hm900j2x88j0/full_thesis_with_approvals.pdf?dl=0) | [code](https://github.com/KryeKuzhinieri/predicting-driver-stress-using-deep-learning)
 - 2022-[Automatic motion artifact detection in electrodermal activity data using machine learning](https://www.sciencedirect.com/science/article/abs/pii/S1746809422000052)-12
 - 2023-[Human Emotion Recognition Based On Galvanic Skin Response signal Feature Selection and SVM](https://arxiv.org/abs/2307.05383)-75
+- 2023-[Driver Drowsiness Detection: A Machine Learning Approach on Skin Conductance](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10143251/)-2
 
 
 ## Indices
