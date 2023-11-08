@@ -46,6 +46,7 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 - 2023-[Human Emotion Recognition Based On Galvanic Skin Response signal Feature Selection and SVM](https://arxiv.org/abs/2307.05383)-75
 - 2023-[Driver Drowsiness Detection: A Machine Learning Approach on Skin Conductance](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10143251/)-2
 - 2023-[Wearable Technologies for Electrodermal and Cardiac Activity Measurements: A Comparison between Fitbit Sense, Empatica E4 and Shimmer GSR3+](https://www.mdpi.com/1424-8220/23/13/5847)-3
+- 2023-[A Method for Stress Detection Using Empatica E4 Bracelet and Machine-Learning Techniques](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10098696/)
 
 
 ## Indices
