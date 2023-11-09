@@ -61,6 +61,7 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 ## Books
 
 - [Electrodermal Activity(2nd).pdf](https://link.springer.com/book/10.1007/978-1-4614-1126-0)
+- [Handbook of Psychophysiology, Fourth Edition](https://www.cambridge.org/core/books/abs/handbook-of-psychophysiology/handbook-of-psychophysiology-fourth-edition/1FDD5C9CF84E602AA8346C328DA0CE74)
 
 
 ## Indices
