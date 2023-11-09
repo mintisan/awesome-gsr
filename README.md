@@ -46,6 +46,7 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 - 2017-[A wearable system for stress detection through physiological data analysis](https://www.iris.sssup.it/retrieve/dd9e0b32-0993-709e-e053-3705fe0a83fd/C029%20-%20A%20wearable%20system%20for%20stress%20detection%20through%20physiological%20data%20analysis.pdf)-27
 - 2019-[Design and Implementation of an Ultra-Low Resource Electrodermal Activity Sensor for Wearable Applications](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6603545/)-23
 - 2019-[Wearables and location tracking technologies for mental-state sensing in outdoor environments](https://arxiv.org/pdf/1910.06137.pdf)-86
+- 2019-[A Deep-Learning Model for Subject-Independent Human Emotion Recognition Using Electrodermal Activity Sensors](https://www.mdpi.com/1424-8220/19/7/1659)-97
 - 2020-[Innovations in Electrodermal Activity Data Collection and Signal Processing: A Systematic Review](https://www.mdpi.com/1424-8220/20/2/479)-227
 - 2020-[Validating Measures of Electrodermal Activity and Heart Rate Variability Derived From the Empatica E4 Utilized in Research Settings That Involve Interactive Dyadic States](https://www.frontiersin.org/articles/10.3389/fnbeh.2020.00148/full)-102
 - 2020-[Detection of Artifacts in Ambulatory Electrodermal Activity Data](https://pc.inf.usi.ch/wp-content/cache/mendeley-file-cache/eb9f5551-d7a7-3069-8140-fa49744b99bc.pdf)-29
