@@ -1,4 +1,4 @@
-# Awesome GSR(Galvanic Skin Response)
+# Awesome GSR(Galvanic Skin Response)/EDA(Electrodermal Activity)
 
 
 ![Awesome](https://awesome.re/badge.svg) ![GitHub stars](https://img.shields.io/github/stars/mintisan/awesome-gsr.svg?style=social)
