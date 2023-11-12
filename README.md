@@ -27,6 +27,9 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 - [eda-explorer](https://github.com/MITMediaLabAffectiveComputing/eda-explorer/tree/master) : Scripts to detect artifacts in EDA data
 - [cvxEDA](https://github.com/lciti/cvxEDA) : Algorithm for the analysis of electrodermal activity (EDA) using convex optimization
 - [Data Preprocessing- Sentiment Analysis of Electrodermal Activity Data for Personalized Interventions in Mental Health](https://medium.com/@sarthak.increase/data-preprocessing-sentiment-analysis-of-electrodermal-activity-data-for-personalized-4cdbcb375b94)
+- [pyEDA](https://github.com/HealthSciTech/pyEDA) : Open-Source Python Library for Electrodermal Activity (Galvanic Skin Response) Analysis
+
+
 
 
 ### Comparison
