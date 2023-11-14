@@ -67,6 +67,7 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 
 - [Electrodermal Activity(2nd).pdf](https://link.springer.com/book/10.1007/978-1-4614-1126-0)
 - [Handbook of Psychophysiology, Fourth Edition](https://www.cambridge.org/core/books/abs/handbook-of-psychophysiology/handbook-of-psychophysiology-fourth-edition/1FDD5C9CF84E602AA8346C328DA0CE74)
+- [Galvanic Skin Response Devices The Ultimate Step-By-Step Guide](https://www.amazon.com/Galvanic-Response-Devices-Ultimate-Step-ebook/dp/B07HGLSPSH)
 
 
 ## Indices
