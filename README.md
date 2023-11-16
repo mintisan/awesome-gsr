@@ -29,7 +29,7 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 - [Data Preprocessing- Sentiment Analysis of Electrodermal Activity Data for Personalized Interventions in Mental Health](https://medium.com/@sarthak.increase/data-preprocessing-sentiment-analysis-of-electrodermal-activity-data-for-personalized-4cdbcb375b94)
 - [pyEDA](https://github.com/HealthSciTech/pyEDA) : Open-Source Python Library for Electrodermal Activity (Galvanic Skin Response) Analysis
 - [LEDALAB](https://nl.mathworks.com/matlabcentral/fileexchange/68502-ledalab-open-source-matlab-software-for-analysis-of-skin-conductance-data-viz-eda-gsr) : Open source Matlab software for analysis of skin conductance data (viz. EDA; GSR)
-
+- [Ledalab](https://github.com/ledalab/ledalab)
 
 
 ### Comparison
