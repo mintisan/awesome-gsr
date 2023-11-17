@@ -53,6 +53,7 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 - 2019-[A Deep-Learning Model for Subject-Independent Human Emotion Recognition Using Electrodermal Activity Sensors](https://www.mdpi.com/1424-8220/19/7/1659)-97
 - 2020-[Innovations in Electrodermal Activity Data Collection and Signal Processing: A Systematic Review](https://www.mdpi.com/1424-8220/20/2/479)-227
 - 2020-[Validating Measures of Electrodermal Activity and Heart Rate Variability Derived From the Empatica E4 Utilized in Research Settings That Involve Interactive Dyadic States](https://www.frontiersin.org/articles/10.3389/fnbeh.2020.00148/full)-102
+- 2020-[Electrodermal activity - a beginner’s guide](https://ev.fe.uni-lj.si/4-2020/Gersak.pdf)-20
 - 2020-[Detection of Artifacts in Ambulatory Electrodermal Activity Data](https://pc.inf.usi.ch/wp-content/cache/mendeley-file-cache/eb9f5551-d7a7-3069-8140-fa49744b99bc.pdf)-29
 - 2021-[A Preliminary Study on Automatic Motion Artifact Detection in Electrodermal Activity Data Using Machine Learning](https://arxiv.org/ftp/arxiv/papers/2107/2107.07650.pdf)-8
 - 2021-[Correlation Analysis of Different Measurement Places of Galvanic Skin Response in Test Groups Facing Pleasant and Unpleasant Stimuli](https://www.mdpi.com/1424-8220/21/12/4210)-19
